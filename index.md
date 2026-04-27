@@ -5,4 +5,4 @@ title: home
 
 # Reasonable Unreasonableness
 
-Essays on technology, economics, and systems.
+Thoughts on life and everything in between.
